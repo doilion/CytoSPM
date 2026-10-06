@@ -1,0 +1,36 @@
+{
+  "respiratory": [
+    "Neutrophil",
+    "Alveolar macrophages",
+    "Lymphocyte",
+    "Ciliated columnar epithelial",
+    "Squamous epithelial",
+    "Diseased"
+  ],
+  "thyroid": [
+    "PTC",
+    "SPTC",
+    "Macrophages",
+    "AUC",
+    "FC"
+  ],
+  "cervical": [
+    "ascus",
+    "asch",
+    "agc_adenocarcinoma_em",
+    "hsil_scc_omn",
+    "dysbacteriosis_herpes_act",
+    "vaginalis",
+    "ec",
+    "lsil",
+    "monilia"
+  ],
+  "urinary": [
+    "HGUC",
+    "SHGUC",
+    "AUC"
+  ],
+  "serous": [
+    "Diseased"
+  ]
+}

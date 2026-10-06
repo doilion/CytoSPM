@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "CytoSPM: Open-Vocabulary Cytopathology Detection with Structured Prompt Bank"
+authors:
+  - family-names: Li
+    given-names: Wenjie
+  - family-names: Xu
+    given-names: Zishan
+  - family-names: Huang
+    given-names: Jinyang
+  - family-names: Nie
+    given-names: Zhengxin
+  - family-names: Kan
+    given-names: Shichao
+  - family-names: Liang
+    given-names: Yixiong
+repository-code: "https://github.com/doilion/CytoSPM"
+license: Apache-2.0
+preferred-citation:
+  type: article
+  title: "CytoSPM: Open-Vocabulary Cytopathology Detection with Structured Prompt Bank"
+  authors:
+    - family-names: Li
+      given-names: Wenjie
+    - family-names: Xu
+      given-names: Zishan
+    - family-names: Huang
+      given-names: Jinyang
+    - family-names: Nie
+      given-names: Zhengxin
+    - family-names: Kan
+      given-names: Shichao
+    - family-names: Liang
+      given-names: Yixiong
+  journal: "arXiv preprint arXiv:2609.31314"
+  year: 2026
+  url: "https://arxiv.org/abs/2609.31314"

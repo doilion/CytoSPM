@@ -1,0 +1,19 @@
+{
+  "respiratory": [
+    "adenocarcinoma",
+    "Squamous carcinoma",
+    "Small carcinoma"
+  ],
+  "thyroid": [
+    "MTC",
+    "Suspicious for Malignancy",
+    "Malignant tumour"
+  ],
+  "cervical": [],
+  "urinary": [],
+  "serous": [
+    "Ovarian cancer",
+    "Breast cancer",
+    "adenocarcinoma"
+  ]
+}
